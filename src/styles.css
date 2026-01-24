@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background: rgb(40, 36, 41);
+  background: rgb(241, 223, 247);
 
 .container {
   max-width: 1400px;
@@ -9,7 +9,7 @@ body {
 
 .text-center {
   text-align: center;
-  color: white;
+  color: rgb(43, 37, 37);
   margin-top: 0;
 }
 
@@ -47,7 +47,7 @@ body {
 }
 
 .card {
-  background: rgb(7, 7, 7);
+  background: rgb(244, 215, 239);
   margin: 30px 0;
 }
 
@@ -148,7 +148,7 @@ main h2 {
   line-height: 1.5;
   margin: 0;
   letter-spacing: 5px;
-  color: rgb(253, 252, 253);
+  color: rgb(100, 9, 236);
   opacity: 0.3;
   text-transform: uppercase;
 }
@@ -157,7 +157,7 @@ main h3 {
   font-weight: 700;
   font-size: 40px;
   line-height: 1.5;
-  color: rgb(248, 246, 246);
+  color: rgb(228, 164, 239);
   margin: 0;
 }
 
@@ -167,7 +167,7 @@ main h4 {
   line-height: 1;
   margin: 0;
   text-align: center;
-  color: rgb(250, 247, 247);
+  color: rgb(242, 201, 201);
 }
 
 main h5 {
@@ -175,7 +175,7 @@ main h5 {
   font-size: 13px;
   margin: 0;
   line-height: 1;
-  color: rgb(250, 247, 247);
+  color: rgb(189, 148, 243);
 }
 
 main p {
@@ -264,5 +264,4 @@ footer a {
       width: 100%;
       aspect-ratio: 1 / 1;
   }
- 
-}
+ }
