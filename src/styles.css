@@ -47,7 +47,7 @@ body {
 }
 
 .card {
-  background: rgb(244, 215, 239);
+  background: rgb(247, 232, 244);
   margin: 30px 0;
 }
 
@@ -73,7 +73,7 @@ body {
   letter-spacing: 3px;
   text-transform: uppercase;
   padding: 16px;
-  background-color: #462cb3;
+  background-color: #dc91ec;
   text-decoration: none;
 }
 
