@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background: rgb(246, 234, 250);
+  background: rgb(249, 240, 252);
 }
 
 .container {
@@ -16,7 +16,7 @@ body {
 
 .grid {
   display: grid;
-  grid-gap: 44px;
+  grid-gap: 40px;
 }
 
 .img-responsive {
@@ -48,9 +48,9 @@ body {
 }
 
 .card {
-  background: rgb(247, 232, 244);
-  margin: 30px 0;
+  background: rgb(248, 230, 244);
   overflow: hidden;
+  border-radius: 15px;
 }
 .card-header {
   margin: 0;
@@ -79,6 +79,7 @@ body {
   padding: 16px;
   background-color: #dc91ec;
   text-decoration: none;
+  border-radius: 15px;
 }
 
 .video {
@@ -93,11 +94,11 @@ section {
 }
 
 section.secondary {
-  background: rgb(7, 7, 7);
+  background: rgb(48, 45, 45);
 }
 
 header {
-  background-image: linear-gradient(rgba(37, 31, 31, 0.6), rgba(0, 0, 0, 0.6)),
+  background-image: linear-gradient(rgba(37, 31, 31, 0.6), rgba(55, 49, 49, 0.6)),
     url("../images/sie.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -131,7 +132,7 @@ header a {
   font-size: 14px;
   line-height: 1.5;
   text-align: center;
-  color: #272044;
+  color: #1d172f;
   padding: 16px 32px;
   margin-top: 32px;
   display: inline-block;
@@ -151,7 +152,7 @@ main h2 {
   line-height: 1.5;
   margin: 0;
   letter-spacing: 5px;
-  color: rgb(100, 9, 236);
+  color: rgb(247, 1, 13);
   opacity: 0.3;
   text-transform: uppercase;
 }
@@ -170,7 +171,7 @@ main h4 {
   line-height: 1;
   margin: 0;
   text-align: center;
-  color: rgb(243, 126, 126);
+  color: rgb(229, 94, 94);
 }
 
 main h5 {
@@ -186,7 +187,7 @@ main p {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
-  color: rgb(241, 139, 139);
+  color: rgb(10, 9, 9);
   opacity: 0.7;
 }
 
