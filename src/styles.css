@@ -155,7 +155,7 @@ main h2 {
   line-height: 1.5;
   margin: 0;
   letter-spacing: 5px;
-  color: rgb(247, 1, 13);
+  color: rgb(103, 54, 121);
   opacity: 0.3;
   text-transform: uppercase;
 }
@@ -174,7 +174,7 @@ main h4 {
   line-height: 1;
   margin: 0;
   text-align: center;
-  color: rgb(229, 94, 94);
+  color: rgb(193, 122, 243);
 }
 
 main h5 {
@@ -188,9 +188,9 @@ main h5 {
 main p {
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5;
-  color: rgb(10, 9, 9);
+  color: rgb(89, 44, 94);
   opacity: 0.7;
 }
 
