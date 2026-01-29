@@ -41,7 +41,8 @@ body {
 
 .embed {
   width: 100%;
-  aspect-ratio: 2 / 2;
+
+  aspect-ratio: 2 / 1;
 }
 
 .instagram-embeds {
@@ -58,7 +59,6 @@ body {
 }
 .card-header.grid {
   grid-gap: 0;
-
 }
 
 .card-body {
